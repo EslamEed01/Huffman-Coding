@@ -1,0 +1,14 @@
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\bin\Debug\net8.0\Huffman Coding.exe
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\bin\Debug\net8.0\Huffman Coding.deps.json
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\bin\Debug\net8.0\Huffman Coding.runtimeconfig.json
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\bin\Debug\net8.0\Huffman Coding.dll
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\bin\Debug\net8.0\Huffman Coding.pdb
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.AssemblyInfoInputs.cache
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.AssemblyInfo.cs
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.csproj.CoreCompileInputs.cache
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.dll
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\refint\Huffman Coding.dll
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.pdb
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\Huffman Coding.genruntimeconfig.cache
+C:\Users\Islam Eid\Downloads\Huffman Coding\Huffman Coding\obj\Debug\net8.0\ref\Huffman Coding.dll
